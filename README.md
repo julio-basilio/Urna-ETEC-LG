@@ -1,4 +1,4 @@
-﻿**Documentação Aplicativo Urna-ETEC-LG**
+**Documentação Aplicativo Urna-ETEC-LG**
 
 **Urna-ETEC-LG**
 
